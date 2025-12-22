@@ -6,5 +6,3 @@ I focus on **interpretability of AI systems** and everything around it. I also e
 contact me via **mahouna.vayssieres@gmail.com**
 
 ---
-
-![](https://github-readme-stats.vercel.app/api?username=miikeydev&theme=transparent&hide_border=false&show_icons=true)
